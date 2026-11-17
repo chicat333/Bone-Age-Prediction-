@@ -1,6 +1,6 @@
 # Pediatric Bone Age Prediction from Hand Radiographs
 
-**Deep-learning regression of skeletal age from X-ray images: a tuned custom CNN, VGG16 transfer learning, and ensemble methods**
+**Deep-learning regression of skeletal age from X-ray images using a tuned custom CNN, VGG16 transfer learning, and ensemble methods**
 
 **Author:** Prachi · MSc Computer Science, University of Delhi
 
